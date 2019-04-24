@@ -1,6 +1,6 @@
 # Guess_Pokemon
 
-A simple python tkinter GUI based game for helping you test and enhance your memory for pokemon's name
+A simple python tkinter GUI based game for helping you test and enhance your memory for pokemon's name.
 
 ## Getting Started
 
