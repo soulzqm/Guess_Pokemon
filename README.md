@@ -14,7 +14,7 @@ Python 2.7 (may not work on 3) and [OpenCV](https://docs.opencv.org/3.4.3/index.
 
 ### Installing
 
-Please download the [Guess_Pokemon.zip]() just for the game. You can extract it to wherever you want. However, you need to set the path where you put your extracted folder in the file py (line) by typing:
+Please download the [Guess_Pokemon.zip]() just for the game. You can extract it to wherever you want. However, you need to set the path where you put your extracted folder in the file Guess_Pokemon.py (line13) by typing:
 
 ```
 path = 'the path of your folder/Guess_Pokemon/'
