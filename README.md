@@ -1,6 +1,6 @@
-# Project Title
+# Guess_Pokemon
 
-One Paragraph of project description goes here
+A simple python tkinter GUI based game for helping you test and enhance your memory for pokemon's name
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Python 2.7 (may not work on 3) and OpenCV modulus installed
 
 ```
 Give examples
