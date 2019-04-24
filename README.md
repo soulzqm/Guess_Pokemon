@@ -5,6 +5,9 @@ A simple python tkinter GUI based game for helping you test and enhance your mem
 ## Getting Started
 
 
+[shape_similarity.py](), [getfilled]() and [getrs.py]() are only used for pre-processing the raw pokemon PNG images. 
+[presentation]() illustrates the concepts and procedure details to build the game.
+[Guess_Pokemon.zip] () contains the all raw pokemon png images, processed images, name list and codes necessary to run the game.        (See Installing)
 
 ### Prerequisites
 
