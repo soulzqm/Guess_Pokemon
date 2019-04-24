@@ -39,7 +39,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-This current version is 1.0.0, which contains 809 pokemon by the end of GEN  
+This current version is 1.0.0, which contains all 809 pokemon by the end of GEN VII, current language is English only.
 
 ## Authors
 
