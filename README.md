@@ -23,17 +23,10 @@ Please download the [Guess_Pokemon.zip]() just for the game. You can extract it 
 path = 'the path of your folder/Guess_Pokemon/'
 ```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Tutorial for the game
-
-Explain how to run the automated tests for this system
+To start, run the cold Guess_Pokemon.py in the extracted folder, change the path according to Installing.
+While the game window is running, click 'START' to start the game.
 
 
 ## Contributing
