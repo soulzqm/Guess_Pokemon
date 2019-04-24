@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Python 2.7 (may not work on 3) and OpenCV modulus installed
+Python 2.7 (may not work on 3) and [OpenCV](https://docs.opencv.org/3.4.3/index.html) modules installed
 
 ```
 Give examples
