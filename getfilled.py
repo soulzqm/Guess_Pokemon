@@ -3,10 +3,8 @@
 Created on Thu Apr 18 23:36:02 2019
 This Code processes the wiki pokemon PNG images so that it converts the pixels
 with high RGB values into low values and leave the background with high RGB values
-this is for the binarization of the images aand
-
- 
-thresholding
+this is for the binarization of the images and thresholding them to make greyscale
+images to compare their shape in OpenCV modulus
 @author: qimin
 """
 
@@ -43,6 +41,6 @@ def get_filled(pokemon_img,path):
     img.save((path+"Filled/"+newname1))
 
 if __name__ == "__main__":
-    path = "C:/Users/qimin/Desktop/pokemon_png/"
+    path = "The path where you extract Guess_Pokemon"
     for file in os.listdir(path):
         get_filled(file,path)
