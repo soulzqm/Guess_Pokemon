@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Apr 20 10:48:24 2019
-
+This is the main GUI for running the Guess Pokemon game.
+Ver 1.0.0
+Start : Run the code and make sure the path on line 15 is equal to 'your path where 
+stores the extracted Guess_Pokemon folder + Guess_Pokemon/'
 @author: qimin
 """
 
@@ -10,7 +13,7 @@ import tkinter as tk
 import random
 from rotation import *
 #Please make sure the path is the folder where you extract the Guess_Pokemon.zip to !
-path = "C:/Users/qimin/Desktop/Guess_Pokemon/"
+path = "your path/Guess_Pokemon/"
 
 #design the GUI interface
 
