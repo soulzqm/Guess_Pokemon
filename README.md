@@ -43,9 +43,9 @@ This current version is 1.0.0, which contains all 809 pokemon by the end of GEN 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **soulzqm** - *ALl work* - [Github page](https://github.com/PurpleBooth)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
 
 ## License
 
