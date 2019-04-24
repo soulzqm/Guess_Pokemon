@@ -14,12 +14,10 @@ Python 2.7 (may not work on 3) and [OpenCV](https://docs.opencv.org/3.4.3/index.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Please download the [Guess_Pokemon.zip]() just for the game. You can extract it to wherever you want. However, you need to set the path where you put your extracted folder in the file py (line) by typing:
 
 ```
-Give the example
+path = 'the path of your folder/Guess_Pokemon/'
 ```
 
 And repeat
