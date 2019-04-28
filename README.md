@@ -17,7 +17,7 @@ Python 2.7 (may not work on 3) and [OpenCV](https://docs.opencv.org/3.4.3/index.
 
 ### Installing
 
-Please download the [Guess_Pokemon.zip]() (300MB) just for the game. You can extract it to wherever you want. However, you need to set the path where you put your extracted folder in the file [Guess_Pokemon.py](https://github.com/soulzqm/Guess_Pokemon/blob/master/Guess_Pokemon.py) (line15) by editing:
+Please download the [Guess_Pokemon.zip](https://megaupload.nz/a8qbrfkdn3/Guess_Pokemon_zip) (300MB) just for the game. You can extract it to wherever you want. However, you need to set the path where you put your extracted folder in the file [Guess_Pokemon.py](https://github.com/soulzqm/Guess_Pokemon/blob/master/Guess_Pokemon.py) (line15) by editing:
 
 ```
 path = 'the path of your folder/Guess_Pokemon/'
@@ -49,7 +49,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+All Pokemon images are processed by the png images downloaded from [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)
 
